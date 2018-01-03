@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import {ScrollView, RefreshControl, StyleSheet} from 'react-native';
+import {ScrollView, RefreshControl} from 'react-native';
 
-class BaseScrollViewComponent extends React.Component {
+class BaseScrollViewComponent extends Component {
     constructor(props) {
         super(props);
 
@@ -41,11 +41,7 @@ class BaseScrollViewComponent extends React.Component {
                     <RefreshControl
                         refreshing={this.state.isRefresh}
                         onRefresh={this.handleRefresh.bind(this)}
-                        tintColor="#ff0000"
-                        title="Loading..."
-                        titleColor="#00ff00"
-                        colors={['#ff0000', '#00ff00', '#0000ff']}
-                        progressBackgroundColor="#ffff00"
+                        title='下拉刷新'
                     />
                 }>
             </ScrollView>
@@ -54,11 +50,9 @@ class BaseScrollViewComponent extends React.Component {
 }
 
 BaseScrollViewComponent.propTypes = {
-    type: PropTypes.string
+    id: PropTypes.string.isRequired,
 };
 
-BaseScrollViewComponent.defaultProps = {
-
-};
+BaseScrollViewComponent.defaultProps = {};
 
 export default BaseScrollViewComponent;

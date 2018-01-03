@@ -1,6 +1,9 @@
-import React, {Component} from 'react';
-import {ScrollView, RefreshControl, StyleSheet} from 'react-native';
+import {connect} from "react-redux";
 
 import BaseScrollViewComponent from '../layout/BaseScrollViewComponent';
 
-export default BaseScrollViewComponent;
+export default connect(function () {
+    return {
+        id: '123'
+    }
+})(BaseScrollViewComponent);
