@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/BaiYuLanMobile/react-native-navigation/unspecified/res/menu/search_item.xml"
+    },
+    {
+        "merged": "/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/BaiYuLanMobile/react-native-navigation/unspecified/res/menu/stub.xml"
+    }
+]

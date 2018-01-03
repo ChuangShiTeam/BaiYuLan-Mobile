@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_05169bd794a04f2efb5a3f74aa074f3b284f74c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_87836874c7bc9f1105e17f96cdc41ee37693b642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_5b09cb3e56540b9883082be1329ce5776271d916.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_fca6859e14ea1417cee33b7f3d6d0f7d119ed9f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_f5b87a16558ce3ab8e0019b7799b9a6d545ce16c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_a24601485d54416947aa7e740e2b0078e5fc222a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_2cc9769dfc237e7512df7f4b2857116e2e3eb7ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_b5b7d2d509cadb6785c76d8b97312bcb2f65bcee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_5113f4e4cf642eff7d02b06690d6210df8a5ca6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_95def3b54689839cb43111cdad41c1f9e886362b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_3ca90b8fc4d41f49414a50b3285b6bd6afe12396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_e913f705093b2f3c53bbff050e3ddd4fbb784198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_c936209eedc83f53748d99d463392505ed1140f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_b6205ba81859fa5607d0575e613b14a3730eb7c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_d4264935103b8c0250a9eb0310afa997d7ee39f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_11e943b527c25f6d96cc89566a51a6b3100602f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/BaiYuLanMobile/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="70f5632fe569a847d39ca25a54ecf618c9bd2b59">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/BaiYuLanMobile-react-native-navigation-unspecified_a19ee6f5f7ae3806d136b3649ba1c43dd426395c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_c4c6fa360ea52f3ebfb275130e720b06da6d67ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_328361af9400a4f43d71ebf3224c8947de448c84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f768861356f4cd8613da447181fd15c3f584f52d">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.4_1a140ece55ec6b32a1d84dbead699b7694c3e09f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_adf633535c20f0775a7bff1fef57a9b09a41f80b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_7a3e004d05b9cad0d60ee87f911d586847c3606b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_9c97d859492d453ce6713c272dee2c31021d3177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_cf32cb14a5f215e08ff1401e56d7e689b3af7642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_fdbaaa091d342d7b8fa33bdba967618f9a2281a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_a759779d763c14fa91fc4303ef16039068c231c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_0630fe8b8212ceb6e6c3b4c7a90fc7b4b45b8046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_17fe291f64a69f782a7b4188cb9f99dcb8c08a22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_909cec12080a7c82c3825978a928242d95a56740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_3dd9dde8ec8955896d8552d60148c435ac164580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_65fc22cc5383b28f2b5f519773684ea1040f13d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_a0fe6ebf13059eaf63f20c1cdd814dae38e5a914.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_2f63ca78d3507e752efdee7fe24269a8704cac43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_fda762eea4e77bf465c9de8a12d64e5a2ac0724c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/zhongyongqiang/Documents/Workspace/BaiYuLan-Mobile/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_e8d7dfe73a6b9b399e3827c27555fc04bd165c07.jar" />
+    </item>
+
+</items>
