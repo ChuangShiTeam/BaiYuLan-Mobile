@@ -3,5 +3,9 @@
     "sdkVersion": "23.0.0"
   },
   "name": "BaiYuLanMobile",
-  "displayName": "BaiYuLan-Mobile"
+  "displayName": "BaiYuLan-Mobile",
+  "packagerOpts": {
+    "projectRoots": "",
+    "config": "rn-cli.config.js"
+  }
 }

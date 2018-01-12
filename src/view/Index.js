@@ -1,9 +1,65 @@
-import {connect} from "react-redux";
+import React, {Component} from 'react';
+import PropTypes from 'prop-types';
+import {ScrollView, View, RefreshControl} from 'react-native';
 
-import BaseScrollViewComponent from '../layout/BaseScrollViewComponent';
+import styles from "./Index.css";
 
-export default connect(function () {
-    return {
-        id: '123'
+class Index extends Component {
+    constructor(props) {
+        super(props);
+
+        this.state = {
+            isRefresh: false
+        }
     }
-})(BaseScrollViewComponent);
+
+    componentDidMount() {
+
+    }
+
+    componentWillUnmount() {
+
+    }
+
+    handleRefresh() {
+        this.setState({
+            isRefresh: true
+        });
+
+        setTimeout(() => {
+            this.setState({
+                isRefresh: false
+            });
+        }, 2000);
+    }
+
+    render() {
+        return (
+            <ScrollView
+                refreshControl={
+                    <RefreshControl
+                        refreshing={this.state.isRefresh}
+                        onRefresh={this.handleRefresh.bind(this)}
+                        title='下拉刷新'
+                    />
+                }>
+
+                <View style={styles.container}>
+                    <View style={styles.left}></View>
+                    <View style={{
+                        flexGrow: 1,
+                        height: 100,
+                        backgroundColor: '#987980'
+                    }}></View>
+                    <View style={{
+                        width: 100,
+                        height: 100,
+                        backgroundColor: '#994477'
+                    }}></View>
+                </View>
+            </ScrollView>
+        );
+    }
+}
+
+export default Index;

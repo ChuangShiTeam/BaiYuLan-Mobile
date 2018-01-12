@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flexDirection: row;
+  flexWrap: wrap;
+  justifyContent: center;
+  alignItems: center
+}
+.left {
+  width: 100px;
+  height: 100px;
+  backgroundColor: #000000;
+}
