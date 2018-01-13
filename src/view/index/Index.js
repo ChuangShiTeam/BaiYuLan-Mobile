@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
 import {ScrollView, View, RefreshControl} from 'react-native';
 
 import styles from "./Index.css";

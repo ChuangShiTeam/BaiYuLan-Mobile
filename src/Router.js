@@ -3,10 +3,10 @@ import {createStore, applyMiddleware, combineReducers} from 'redux';
 import {Provider} from 'react-redux'
 import thunk from 'redux-thunk';
 
-import Index from './view/Index';
-import Purchase from './view/Purchase';
-import Agent from './view/Agent';
-import Manager from './view/Manager';
+import Index from './view/index/Index';
+import PurchaseIndex from './view/purchase/Index';
+import AgentIndex from './view/agent/Index';
+import ManagerIndex from './view/manager/Index';
 
 import admin from "./store/admin";
 
@@ -24,7 +24,7 @@ const store = aaa();
 
 export function registerRouter() {
     Navigation.registerComponent('/index', () => Index, store, Provider);
-    Navigation.registerComponent('/purchase', () => Purchase, store, Provider);
-    Navigation.registerComponent('/agent', () => Agent, store, Provider);
-    Navigation.registerComponent('/manager', () => Manager, store, Provider);
+    Navigation.registerComponent('/purchase', () => PurchaseIndex, store, Provider);
+    Navigation.registerComponent('/agent', () => AgentIndex, store, Provider);
+    Navigation.registerComponent('/manager', () => ManagerIndex, store, Provider);
 }
