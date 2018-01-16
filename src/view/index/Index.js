@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
 import {ScrollView, View, RefreshControl} from 'react-native';
+import classNames from 'classnames';
 
-import styles from "./Index.css";
+import myStyle from "./Index.css";
 
 class Index extends Component {
     constructor(props) {
@@ -43,18 +44,10 @@ class Index extends Component {
                     />
                 }>
 
-                <View style={styles.container}>
-                    <View style={styles.left}></View>
-                    <View style={{
-                        flexGrow: 1,
-                        height: 100,
-                        backgroundColor: '#987980'
-                    }}></View>
-                    <View style={{
-                        width: 100,
-                        height: 100,
-                        backgroundColor: '#994477'
-                    }}></View>
+                <View style={myStyle.container}>
+                    <View style={myStyle.left}></View>
+                    <View style={myStyle.center}></View>
+                    <View style={myStyle.right}></View>
                 </View>
             </ScrollView>
         );

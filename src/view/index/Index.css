@@ -1,12 +1,25 @@
 .container {
-  display: flex;
-  flexDirection: row;
-  flexWrap: wrap;
-  justifyContent: center;
-  alignItems: center
+    display: flex;
+    flexDirection: row;
+    flexWrap: wrap;
+    justifyContent: center;
+    alignItems: center;
 }
+
 .left {
-  width: 100px;
-  height: 100px;
-  backgroundColor: #000000;
+    width: 100px;
+    height: 100px;
+    backgroundColor: #000000;
+}
+
+.center {
+    flexGrow: 1;
+    height: 100px;
+    backgroundColor: #987980;
+}
+
+.right {
+    width: 100px;
+    height: 100px;
+    backgroundColor: #000000;
 }
